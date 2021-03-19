@@ -6,11 +6,9 @@ change as it trains, such that similar words will result in similar vectors.
 Example of the model predicting the top five genres for the given synopsis:
 
 the synopsis is:
-  Before planning an awesome wedding for his grandfather, a polar bear king must take back a stolen artifact from an evil archaeologist first.
+  
+Before planning an awesome wedding for his grandfather, a polar bear king must take back a stolen artifact from an evil archaeologist first.
 
 the top five predicted genres are:
-  comedies
-  children & family movies
-  romantic tv shows
-  action & adventure
-  international tv shows
+
+comedies, children & family movies, romantic tv shows, action & adventure, international tv shows
